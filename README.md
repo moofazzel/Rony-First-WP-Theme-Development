@@ -1,1 +1,1 @@
-# WP-Theme-Development learning
+ronyFirstWP_Theme
